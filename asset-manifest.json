@@ -1,7 +1,7 @@
 {
-  "main.css": "/react-shop-build/static/css/main.e1e39bf1.chunk.css",
-  "main.js": "/react-shop-build/static/js/main.00775337.chunk.js",
-  "main.js.map": "/react-shop-build/static/js/main.00775337.chunk.js.map",
+  "main.css": "/react-shop-build/static/css/main.ece62055.chunk.css",
+  "main.js": "/react-shop-build/static/js/main.cb8e5815.chunk.js",
+  "main.js.map": "/react-shop-build/static/js/main.cb8e5815.chunk.js.map",
   "static/js/1.100dd595.chunk.js": "/react-shop-build/static/js/1.100dd595.chunk.js",
   "static/js/1.100dd595.chunk.js.map": "/react-shop-build/static/js/1.100dd595.chunk.js.map",
   "runtime~main.js": "/react-shop-build/static/js/runtime~main.a305e99e.js",
@@ -13,8 +13,8 @@
   "static/media/shopping-cart.svg": "/react-shop-build/static/media/shopping-cart.b7365e8f.svg",
   "static/media/bin.svg": "/react-shop-build/static/media/bin.dce2cafa.svg",
   "static/media/6.jpg": "/react-shop-build/static/media/6.84310b19.jpg",
-  "static/css/main.e1e39bf1.chunk.css.map": "/react-shop-build/static/css/main.e1e39bf1.chunk.css.map",
+  "static/css/main.ece62055.chunk.css.map": "/react-shop-build/static/css/main.ece62055.chunk.css.map",
   "index.html": "/react-shop-build/index.html",
-  "precache-manifest.08fbd3327376bbcdf34b00a9a2ee5d95.js": "/react-shop-build/precache-manifest.08fbd3327376bbcdf34b00a9a2ee5d95.js",
+  "precache-manifest.6e79fe07b6b0b44a3e0a552f3c75fa7e.js": "/react-shop-build/precache-manifest.6e79fe07b6b0b44a3e0a552f3c75fa7e.js",
   "service-worker.js": "/react-shop-build/service-worker.js"
 }
